@@ -1,0 +1,16 @@
+{
+  "name": "belleSoupe-server",
+  "version": "1.0.0",
+  "description": "Server with nodeJs and ExpressJs",
+  "author": "Jean Arhancetebehere",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "docker node"
+  ],
+  "dependencies": {
+    "express": "*"
+  }
+}
