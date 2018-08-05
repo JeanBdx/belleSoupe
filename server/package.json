@@ -11,6 +11,7 @@
     "docker node"
   ],
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "graphql": "^0.13.2"
   }
 }
